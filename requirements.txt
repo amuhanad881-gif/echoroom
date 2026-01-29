@@ -2,5 +2,5 @@ Flask==3.0.0
 flask-socketio==5.3.5
 python-socketio==5.10.0
 python-engineio==4.13.0
-eventlet==0.37.1
+eventlet==0.37.0
 gunicorn==21.2.0
